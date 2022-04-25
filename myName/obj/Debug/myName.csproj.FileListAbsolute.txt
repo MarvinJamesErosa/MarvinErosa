@@ -1,0 +1,11 @@
+C:\Users\mjae0\OneDrive\Desktop\New folder\myName\assignment\New folder\myName\myName\obj\Debug\myName.csproj.AssemblyReference.cache
+C:\Users\mjae0\OneDrive\Desktop\New folder\myName\assignment\New folder\myName\myName\obj\Debug\myName.csproj.SuggestedBindingRedirects.cache
+C:\Users\mjae0\OneDrive\Desktop\New folder\myName\assignment\New folder\myName\myName\obj\Debug\myName.Form1.resources
+C:\Users\mjae0\OneDrive\Desktop\New folder\myName\assignment\New folder\myName\myName\obj\Debug\myName.Properties.Resources.resources
+C:\Users\mjae0\OneDrive\Desktop\New folder\myName\assignment\New folder\myName\myName\obj\Debug\myName.csproj.GenerateResource.cache
+C:\Users\mjae0\OneDrive\Desktop\New folder\myName\assignment\New folder\myName\myName\obj\Debug\myName.csproj.CoreCompileInputs.cache
+C:\Users\mjae0\OneDrive\Desktop\New folder\myName\assignment\New folder\myName\myName\bin\Debug\myName.exe.config
+C:\Users\mjae0\OneDrive\Desktop\New folder\myName\assignment\New folder\myName\myName\bin\Debug\myName.exe
+C:\Users\mjae0\OneDrive\Desktop\New folder\myName\assignment\New folder\myName\myName\bin\Debug\myName.pdb
+C:\Users\mjae0\OneDrive\Desktop\New folder\myName\assignment\New folder\myName\myName\obj\Debug\myName.exe
+C:\Users\mjae0\OneDrive\Desktop\New folder\myName\assignment\New folder\myName\myName\obj\Debug\myName.pdb
